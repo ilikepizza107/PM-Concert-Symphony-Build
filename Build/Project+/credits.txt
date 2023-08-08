@@ -81,6 +81,7 @@ MARTH
 
 MR. GAME & WATCH
 17 - WnL GnW
+18 - Rise GnW
 
 FALCO
 
